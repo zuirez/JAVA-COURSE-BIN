@@ -25,6 +25,7 @@ public class FrameExample {
         label4.setBounds(200, 250, 150, 30);
         label4.setOpaque(true);
 
+        //adding to frame
         frame.add(label1);
         frame.add(label2);
         frame.add(label3);
